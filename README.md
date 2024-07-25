@@ -1,7 +1,7 @@
 # Search Algorithm Performance Test
 Author: Curran Flanders
 
-Completion Date: 12/14/2022
+Completion Date: 04/25/2022
 
 ## Description
 This simple program tests the efficiency of two array search methods, binary and sequential, by
